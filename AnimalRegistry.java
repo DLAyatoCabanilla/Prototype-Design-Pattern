@@ -4,9 +4,9 @@ class AnimalRegistry {
     private final Horse horsePrototype;
 
     public AnimalRegistry() {
-        this.sheepPrototype = new Sheep(4, "Baa", "Grass", "");
-        this.cowPrototype = new Cow(4, "Moo", "Pasture Grass");
-        this.horsePrototype = new Horse(4, "Neigh", "Hay", "Brown");
+        this.sheepPrototype = new Sheep(4, "Baa Baa", "Grass", "");
+        this.cowPrototype = new Cow(4, "Moooo", "Alfalfa Grass");
+        this.horsePrototype = new Horse(4, "Nneeiigghh", "Hay", "Brown");
     }
 
     public Animal createSheep(String name) {
