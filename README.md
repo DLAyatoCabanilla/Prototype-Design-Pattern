@@ -1,2 +1,3 @@
 # Prototype Design Pattern
-![image](https://github.com/user-attachments/assets/1af0ba9d-0854-4ed0-818e-62f1004bd1e0)
+![image](https://github.com/user-attachments/assets/9793c0e4-1cad-4da1-9d49-be77e3ed1b3a)
+
